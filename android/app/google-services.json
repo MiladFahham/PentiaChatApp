@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784561928051",
+    "project_id": "pentiachatapp-1b5cf",
+    "storage_bucket": "pentiachatapp-1b5cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784561928051:android:d2fcda244bce408e557706",
+        "android_client_info": {
+          "package_name": "com.pentiachatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW-h4oHbM0g95jkngq5VHh20IR7ekOjqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
